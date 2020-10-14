@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-[screenshot](http://g.recordit.co/xIhmDmokOy.gif)
+![screenshot](http://g.recordit.co/xIhmDmokOy.gif)
